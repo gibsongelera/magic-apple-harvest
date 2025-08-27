@@ -43,4 +43,4 @@ Built using:
 
 ## Setup
 
-Simply open `apple.html` in a modern web browser to start playing!
+Simply click this  `magic-apple-harvest.vercel.app` in a modern web browser to start playing!
