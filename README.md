@@ -1,4 +1,4 @@
-# Magic Apple Harvest Game
+Click here to play # Magic Apple Harvest Game
 
 A fun and engaging browser-based game where you catch falling apples! Test your reflexes and aim for the highest score.
 
